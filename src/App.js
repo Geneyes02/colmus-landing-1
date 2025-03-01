@@ -1,5 +1,5 @@
 import React from "react";
-import ColmusLanding from "./ColmusLanding";
+import ColmusLanding from "./ColmusLanding"; // Ensure correct import
 
 function App() {
   return (
